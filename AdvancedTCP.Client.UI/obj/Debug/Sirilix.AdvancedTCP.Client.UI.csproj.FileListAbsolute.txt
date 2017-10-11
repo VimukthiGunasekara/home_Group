@@ -1,0 +1,1 @@
+C:\Users\Sajith\Desktop\Sirilix.AdvancedTCP\AdvancedTCP\Sirilix.AdvancedTCP.Client.UI\bin\Debug\Sirilix.AdvancedTCP.Client.UI.exe.config
